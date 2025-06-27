@@ -22,8 +22,9 @@
 4. 반응형 홈페이지 미에로화이바 웹 [(https://heejung-0326.github.io/miero/)](https://heejung-0326.github.io/miero/)<br>
 5. PHP를 활용한 홈페이지 웹(캐스퍼) [(https://heejung-0326.github.io/casper2025/)](https://heejung-0326.github.io/casper2025/)<br>
 6. 리액트를 활용한 상품 입력/출력 폼(11번가) [(https://heejung-0326.github.io/react_11st/)](https://heejung-0326.github.io/react_11st/)<br>
-7. 리액트를 활용한 홈페이지 웹(마켓컬리) [(https://heejung-0326.github.io/react2025_kurly/)](https://heejung-0326.github.io/react2025_kurly/)<br>
-8. 리액트를 활용한 홈페이지 웹(영화사이트) [(https://heejung-0326.github.io/react_movie)](https://heejung-0326.github.io/react_movie)<br>
-9. 리액트를 활용한 모바일 웹(정관장지니펫) [(https://heejung-0326.github.io/ginipet/)](https://heejung-0326.github.io/ginipet/)<br>
-10. 개인프로젝트 랜딩페이지(HD현대중공업) [(https://heejung-0326.github.io/1st_project/)](https://heejung-0326.github.io/1st_project/)<br>
-11. 팀프로젝트 리액트 활용한 중고매매사이트 구현 [(https://heejung-0326.github.io/rego/)](https://heejung-0326.github.io/rego/)<br>
+7. 리액트를 활용한 TodoList [(https://heejung-0326.github.io/react_todolist/)](https://heejung-0326.github.io/react_todolist/)<br>
+8. 리액트를 활용한 홈페이지 웹(마켓컬리) [(https://heejung-0326.github.io/react2025_kurly/)](https://heejung-0326.github.io/react2025_kurly/)<br>
+9. 리액트를 활용한 홈페이지 웹(영화사이트) [(https://heejung-0326.github.io/react_movie)](https://heejung-0326.github.io/react_movie)<br>
+10. 리액트를 활용한 모바일 웹(정관장지니펫) [(https://heejung-0326.github.io/ginipet/)](https://heejung-0326.github.io/ginipet/)<br>
+11. 개인프로젝트 랜딩페이지(HD현대중공업) [(https://heejung-0326.github.io/1st_project/)](https://heejung-0326.github.io/1st_project/)<br>
+12. 팀프로젝트 리액트 활용한 중고매매사이트 구현 [(https://heejung-0326.github.io/rego/)](https://heejung-0326.github.io/rego/)<br>
