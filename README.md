@@ -12,4 +12,4 @@
 
 ## 🧡Project
 
-[1.적응형 홈페이지 동물병원 웹](https://heejung-0326.github.io/animal2025/), '동물병원홈페이지바로가기')<br>
+[1.적응형 홈페이지 동물병원 ](https://heejung-0326.github.io/animal2025/) '동물병원홈페이지바로가기'<br>
