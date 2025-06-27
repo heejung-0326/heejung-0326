@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Frontend&fontSize=50)
 
-# 🙋‍♀️Profile
+# 🙋‍♀️ Profile
 
 안녕하세요 저는 사용자 경험을 최우선으로 생각하고,<br>
 꼼꼼한 성격과 실행력으로 문제를 해결하는 프로트엔드 개발자 지희정입니다.<br>
@@ -10,6 +10,6 @@
 
 <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white" alt="html5" />&nbsp;<img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS&logoColor=white" alt="css3" />&nbsp;<img src="https://img.shields.io/badge/JAVASCRIPT-green?style=flat-square&logo=JAVASCRIPT&logoColor=white" alt="javascript" />&nbsp;<img src="https://img.shields.io/badge/FIGMA-pink?style=flat-square&logo=FIGMA&logoColor=white" alt="FIGMA" />&nbsp;<img src="https://img.shields.io/badge/JQUERY-skyblue?style=flat-square&logo=JQUERY&logoColor=white" alt="jquery" />&nbsp;<img src="https://img.shields.io/badge/SASS-%23cc6699?style=flat-square&logo=SASS&logoColor=white" alt="SASS" />
 
-## 🧡Project
+## 🧡 Project
 
-[1.적응형 홈페이지 동물병원 ](https://heejung-0326.github.io/animal2025/) '동물병원홈페이지바로가기'<br>
+1. 적응형 홈페이지 동물병원 웹 [(https://heejung-0326.github.io/animal2025/)](https://heejung-0326.github.io/animal2025/)<br>
