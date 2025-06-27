@@ -22,3 +22,4 @@
 7. 리액트를 활용한 홈페이지 웹(마켓컬리) [(https://heejung-0326.github.io/react2025_kurly/)](https://heejung-0326.github.io/react2025_kurly/)<br>
 8. 리액트를 활용한 홈페이지 웹(영화사이트) [(https://heejung-0326.github.io/react_movie)](https://heejung-0326.github.io/react_movie)<br>
 9. 리액트를 활용한 모바일 웹(정관장지니펫) [(https://heejung-0326.github.io/ginipet/)](https://heejung-0326.github.io/ginipet/)<br>
+10. 개인프로젝트 랜딩페이지(HD현대중공업) [(https://heejung-0326.github.io/1st_project/)](https://heejung-0326.github.io/1st_project/)<br>
