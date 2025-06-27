@@ -18,3 +18,4 @@
 3. 반응형 홈페이지 오설록 웹 [(https://heejung-0326.github.io/osulloc/)](https://heejung-0326.github.io/osulloc/)<br>
 4. 리액트를 활용한 상품 입력/출력 폼(11번가) [(https://heejung-0326.github.io/react_11st/)](https://heejung-0326.github.io/react_11st/)<br>
 5. 리액트를 활용한 홈페이지 웹(마켓컬리) [(https://heejung-0326.github.io/react2025_kurly/)](https://heejung-0326.github.io/react2025_kurly/)<br>
+6. 리액트를 활용한 홈페이지 웹(영화사이트) [(https://heejung-0326.github.io/react_movie)](https://heejung-0326.github.io/react_movie)<br>
