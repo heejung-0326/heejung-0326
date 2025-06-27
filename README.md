@@ -10,4 +10,4 @@
 <img src="https://img.shields.io/badge/JAVASCRIPT-green?style=flat-square&logo=JAVASCRIPT&logoColor=white" alt="javascript" />
 <img src="https://img.shields.io/badge/FIGMA-pink?style=flat-square&logo=PIGMA&logoColor=white" alt="PIGMA" />
 <img src="https://img.shields.io/badge/JQUERY-skyblue?style=flat-square&logo=JQUERY&logoColor=white" alt="jquery" />
-<img src="https://img.shields.io/badge/SASS-#cc6699?style=flat-square&logo=SASS&logoColor=white" alt="SASS" />
+<img src="https://img.shields.io/badge/SASS-%23cc6699?style=flat-square&logo=SASS&logoColor=white" alt="SASS" />
