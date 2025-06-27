@@ -13,3 +13,4 @@
 ## 🧡 Project
 
 1. 적응형 홈페이지 동물병원 웹 [(https://heejung-0326.github.io/animal2025/)](https://heejung-0326.github.io/animal2025/)<br>
+2. 대한항공 모바일 웹(앱) [(https://heejung-0326.github.io/koreaair2025/)](https://heejung-0326.github.io/koreaair2025/)<br>
