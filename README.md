@@ -7,7 +7,7 @@
 여러가지 작업을 하면서 만들었던 프로젝트를 공유하고 도움이 되고자 합니다.😊<br><br>
 
 ## ❤ Portfolio
-포트폴리오입니다🙇‍♀️ [https://heejung-0326.github.io/portfolio/](https://heejung-0326.github.io/portfolio/)<br><br>
+포트폴리오입니다🙇‍♀️<br> [https://heejung-0326.github.io/portfolio/](https://heejung-0326.github.io/portfolio/)<br><br>
 
 ## 🧡 Skills
 
