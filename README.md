@@ -1,30 +1,37 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Frontend&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Frontend%20Developer&fontSize=45)
 
 # 🙋‍♀️ Profile
 
-안녕하세요 저는 사용자 경험을 최우선으로 생각하고,<br>
-꼼꼼한 성격과 실행력으로 문제를 해결하는 프로트엔드 개발자 지희정입니다.<br>
-여러가지 작업을 하면서 만들었던 프로젝트를 공유하고 도움이 되고자 합니다.😊<br><br>
+안녕하세요! 1년 3개월 차 프론트엔드 개발자 지희정입니다.<br>
+React, Next.js, Vue(Nuxt), TypeScript로 실무 웹 서비스를 개발하고 운영하고 있습니다.<br>
+API, DB, 배포까지 직접 다뤄 본 경험으로 백엔드 개발자와 원활하게 협업하고, 화면 너머의 원인까지 찾는 개발자를 목표로 합니다.<br><br>
 
 ## ❤ Portfolio
-포트폴리오입니다🙇‍♀️<br> [https://heejung-0326.github.io/portfolio/](https://heejung-0326.github.io/portfolio/)<br><br>
+- 노션 포트폴리오: [바로가기](여기에_노션_공개_링크)
+- Email: duqwlqdk@naver.com
+<br>
 
 ## 🧡 Skills
 
-<img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white" alt="html5" />&nbsp;<img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS&logoColor=white" alt="css3" />&nbsp;<img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat-square&logo=JAVASCRIPT&logoColor=white" alt="javascript" />&nbsp;<img src="https://img.shields.io/badge/FIGMA-pink?style=flat-square&logo=FIGMA&logoColor=white" alt="FIGMA" />&nbsp;<img src="https://img.shields.io/badge/JQUERY-skyblue?style=flat-square&logo=JQUERY&logoColor=white" alt="jquery" />&nbsp;<img src="https://img.shields.io/badge/SASS-%23cc6699?style=flat-square&logo=SASS&logoColor=white" alt="SASS" />&nbsp;<img src="https://img.shields.io/badge/PHP-474A8A?style=flat-square&logo=PHP&logoColor=white" alt="php" />&nbsp;<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=REACT&logoColor=white" alt="REACT" />&nbsp;
+**Frontend**<br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />&nbsp;<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />&nbsp;<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" />
+<br>
+
+**Backend & Database**<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+<br>
+
+**Infra & Tools**<br>
+<img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 <br><br>
 
-## 💛 Project
+## 💛 Work Project
+> 회사 프로젝트는 비공개 저장소라 코드 대신 소개로 대신합니다.
 
-1. 적응형 홈페이지 동물병원 웹 [(https://heejung-0326.github.io/animal2025/)](https://heejung-0326.github.io/animal2025/)<br>
-2. 대한항공 모바일 웹(앱) [(https://heejung-0326.github.io/koreaair2025/)](https://heejung-0326.github.io/koreaair2025/)<br>
-3. 반응형 홈페이지 오설록 웹 [(https://heejung-0326.github.io/osulloc/)](https://heejung-0326.github.io/osulloc/)<br>
-4. 반응형 홈페이지 미에로화이바 웹 [(https://heejung-0326.github.io/miero/)](https://heejung-0326.github.io/miero/)<br>
-5. PHP를 활용한 홈페이지 웹(캐스퍼) [(https://heejung-0326.github.io/casper2025/)](https://heejung-0326.github.io/casper2025/)<br>
-6. 리액트를 활용한 상품 입력/출력 폼(11번가) [(https://heejung-0326.github.io/react_11st/)](https://heejung-0326.github.io/react_11st/)<br>
-7. 리액트를 활용한 TodoList [(https://heejung-0326.github.io/react_todolist/)](https://heejung-0326.github.io/react_todolist/)<br>
-8. 리액트를 활용한 홈페이지 웹(마켓컬리) [(https://heejung-0326.github.io/react2025_kurly/)](https://heejung-0326.github.io/react2025_kurly/)<br>
-9. 리액트를 활용한 홈페이지 웹(영화사이트) [(https://heejung-0326.github.io/react_movie)](https://heejung-0326.github.io/react_movie)<br>
-10. 리액트를 활용한 모바일 웹(정관장지니펫) [(https://heejung-0326.github.io/ginipet/)](https://heejung-0326.github.io/ginipet/)<br>
-11. 개인프로젝트 랜딩페이지(HD현대중공업) [(https://heejung-0326.github.io/1st_project/)](https://heejung-0326.github.io/1st_project/)<br>
-12. 팀프로젝트 리액트 활용한 중고매매사이트 구현 [(https://heejung-0326.github.io/rego/)](https://heejung-0326.github.io/rego/)<br>
+1. **코프로토** | B2B 3D 프린팅/CNC 견적, 주문 플랫폼 개발 및 운영 (Next.js, TypeScript, Express) [(koproto.com)](https://koproto.com)<br>
+2. **어바스디자인** | PHP 사이트를 Vue 3/Nuxt SSR로 마이그레이션 [(urbasdesign.com)](https://www.urbasdesign.com)<br>
+3. **MPNITE 관리자 백오피스** | 견적 관리, SSE 실시간 알림 (Vue 3, Spring Boot)<br>
+4. **영앤클린 예약 자동화** | 견적, 예약, 기사 배정 자동화 1인 개발 (Next.js, Express, Supabase) <br><br>
+
+## 💚 Study Project
+1. 팀프로젝트 React 중고매매 사이트 (rego) [(https://heejung-0326.github.io/rego/)](https://heejung-0326.github.io/rego/)<br>
