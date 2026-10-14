@@ -7,7 +7,7 @@ React, Next.js, Vue(Nuxt), TypeScript로 실무 웹 서비스를 개발하고 �
 API, DB, 배포까지 직접 다뤄 본 경험으로 백엔드 개발자와 원활하게 협업하고, 화면 너머의 원인까지 찾는 개발자를 목표로 합니다.<br><br>
 
 ## ❤ Portfolio
-- 노션 포트폴리오: [바로가기](https://jagged-speedwell-251.notion.site/Frontend-Developer-Portfolio-217220d8bafc8082aa72fb01938b1157)
+- 노션 포트폴리오: [바로가기](https://heejung-portfolio.notion.site/Frontend-Developer-Portfolio-217220d8bafc8082aa72fb01938b1157)
 - Email: duqwlqdk@naver.com
 <br>
 
@@ -28,10 +28,10 @@ API, DB, 배포까지 직접 다뤄 본 경험으로 백엔드 개발자와 원�
 ## 💛 Work Project
 > 회사 프로젝트는 비공개 저장소라 코드 대신 노션에 상세 내용을 정리했습니다.
 
-1. **코프로토** | B2B 3D 프린팅/CNC 견적, 주문 플랫폼 개발 및 운영 (Next.js, TypeScript, Express) [(koproto.com)](https://koproto.com) [(상세 보기)](https://jagged-speedwell-251.notion.site/Frontend-Developer-Portfolio-217220d8bafc8082aa72fb01938b1157#164fdf10849742ec8721bf21e24ef7c9)<br>
-2. **어바스디자인** | PHP 사이트를 Vue 3/Nuxt SSR로 마이그레이션 [(urbasdesign.com)](https://www.urbasdesign.com) [(상세 보기)](https://jagged-speedwell-251.notion.site/Frontend-Developer-Portfolio-217220d8bafc8082aa72fb01938b1157#9f851b6d84a3424781495dd9705b8e0b)<br>
-3. **MPNITE 관리자 백오피스** | 견적 관리, SSE 실시간 알림 (Vue 3, Spring Boot) [(상세 보기)](https://jagged-speedwell-251.notion.site/Frontend-Developer-Portfolio-217220d8bafc8082aa72fb01938b1157#51212cc937b347008242c102b91b5cf3)<br>
-4. **영앤클린 예약 자동화** | 견적, 예약, 기사 배정 자동화 1인 개발 (Next.js, Express, Supabase) [(상세 보기)](https://jagged-speedwell-251.notion.site/Frontend-Developer-Portfolio-217220d8bafc8082aa72fb01938b1157#050c7bb1b2f0470ba91d8babc57c3854)<br><br>
+1. **코프로토** | B2B 3D 프린팅/CNC 견적, 주문 플랫폼 개발 및 운영 (Next.js, TypeScript, Express) [(koproto.com)](https://koproto.com) [(상세 보기)](https://heejung-portfolio.notion.site/Frontend-Developer-Portfolio-217220d8bafc8082aa72fb01938b1157#164fdf10849742ec8721bf21e24ef7c9)<br>
+2. **어바스디자인** | PHP 사이트를 Vue 3/Nuxt SSR로 마이그레이션 [(urbasdesign.com)](https://www.urbasdesign.com) [(상세 보기)](https://heejung-portfolio.notion.site/Frontend-Developer-Portfolio-217220d8bafc8082aa72fb01938b1157#9f851b6d84a3424781495dd9705b8e0b)<br>
+3. **MPNITE 관리자 백오피스** | 견적 관리, SSE 실시간 알림 (Vue 3, Spring Boot) [(상세 보기)](https://heejung-portfolio.notion.site/Frontend-Developer-Portfolio-217220d8bafc8082aa72fb01938b1157#51212cc937b347008242c102b91b5cf3)<br>
+4. **영앤클린 예약 자동화** | 견적, 예약, 기사 배정 자동화 1인 개발 (Next.js, Express, Supabase) [(상세 보기)](https://heejung-portfolio.notion.site/Frontend-Developer-Portfolio-217220d8bafc8082aa72fb01938b1157#050c7bb1b2f0470ba91d8babc57c3854)<br><br>
 
 ## 💚 Study Project
 1. 팀프로젝트 React 중고매매 사이트 (rego) [(https://heejung-0326.github.io/rego/)](https://heejung-0326.github.io/rego/)<br>
